@@ -1,0 +1,6 @@
+E:\GIT\CyStar-Library\Library_v1\Library_v1\obj\Debug\Library_v1.csproj.AssemblyReference.cache
+E:\GIT\CyStar-Library\Library_v1\Library_v1\obj\Debug\Library_v1.csproj.SuggestedBindingRedirects.cache
+E:\GIT\CyStar-Library\Library_v1\Library_v1\obj\Debug\Library_v1.Main.resources
+E:\GIT\CyStar-Library\Library_v1\Library_v1\obj\Debug\Library_v1.Properties.Resources.resources
+E:\GIT\CyStar-Library\Library_v1\Library_v1\obj\Debug\Library_v1.csproj.GenerateResource.cache
+E:\GIT\CyStar-Library\Library_v1\Library_v1\obj\Debug\Library_v1.csproj.CoreCompileInputs.cache
